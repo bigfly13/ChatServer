@@ -1,0 +1,1 @@
+cd /root/projects/chatServer/; g++ -o "/root/projects/chatServer/bin/x64/Debug/chatServer.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/chatServer/obj/x64/Debug/chatServer.o
